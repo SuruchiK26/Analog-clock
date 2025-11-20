@@ -1,3 +1,6 @@
+# Analog clock 
+A simple and visually appealing Analog Clock created using HTML, CSS, and JavaScript. This project demonstrates working with DOM manipulation, CSS transformations, and real-time JavaScript functions to display the current system time dynamically.
+
 📌 Features
 
 Displays real-time current time (hours, minutes, seconds)
